@@ -1,0 +1,5 @@
+E:\Visual Studio Codes\StringType\StringType\bin\Debug\StringType.exe.config
+E:\Visual Studio Codes\StringType\StringType\bin\Debug\StringType.exe
+E:\Visual Studio Codes\StringType\StringType\bin\Debug\StringType.pdb
+E:\Visual Studio Codes\StringType\StringType\obj\Debug\StringType.exe
+E:\Visual Studio Codes\StringType\StringType\obj\Debug\StringType.pdb
