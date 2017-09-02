@@ -1,0 +1,6 @@
+E:\Visual Studio Codes\Literal_Charcters\Literal_Charcters\bin\Debug\Literal_Charcters.exe.config
+E:\Visual Studio Codes\Literal_Charcters\Literal_Charcters\bin\Debug\Literal_Charcters.exe
+E:\Visual Studio Codes\Literal_Charcters\Literal_Charcters\bin\Debug\Literal_Charcters.pdb
+E:\Visual Studio Codes\Literal_Charcters\Literal_Charcters\obj\Debug\Literal_Charcters.exe
+E:\Visual Studio Codes\Literal_Charcters\Literal_Charcters\obj\Debug\Literal_Charcters.pdb
+E:\Visual Studio Codes\Literal_Charcters\Literal_Charcters\obj\Debug\Literal_Charcters.csprojResolveAssemblyReference.cache
