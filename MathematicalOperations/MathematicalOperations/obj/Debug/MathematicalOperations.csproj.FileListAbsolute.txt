@@ -1,0 +1,6 @@
+E:\Visual Studio Codes\MathematicalOperations\MathematicalOperations\bin\Debug\MathematicalOperations.exe.config
+E:\Visual Studio Codes\MathematicalOperations\MathematicalOperations\bin\Debug\MathematicalOperations.exe
+E:\Visual Studio Codes\MathematicalOperations\MathematicalOperations\bin\Debug\MathematicalOperations.pdb
+E:\Visual Studio Codes\MathematicalOperations\MathematicalOperations\obj\Debug\MathematicalOperations.csprojResolveAssemblyReference.cache
+E:\Visual Studio Codes\MathematicalOperations\MathematicalOperations\obj\Debug\MathematicalOperations.exe
+E:\Visual Studio Codes\MathematicalOperations\MathematicalOperations\obj\Debug\MathematicalOperations.pdb
