@@ -1,0 +1,6 @@
+E:\Visual Studio Codes\Assignments_Operations\Assignments_Operations\bin\Debug\Assignments_Operations.exe.config
+E:\Visual Studio Codes\Assignments_Operations\Assignments_Operations\bin\Debug\Assignments_Operations.exe
+E:\Visual Studio Codes\Assignments_Operations\Assignments_Operations\bin\Debug\Assignments_Operations.pdb
+E:\Visual Studio Codes\Assignments_Operations\Assignments_Operations\obj\Debug\Assignments_Operations.exe
+E:\Visual Studio Codes\Assignments_Operations\Assignments_Operations\obj\Debug\Assignments_Operations.pdb
+E:\Visual Studio Codes\Assignments_Operations\Assignments_Operations\obj\Debug\Assignments_Operations.csprojResolveAssemblyReference.cache
