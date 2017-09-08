@@ -1,0 +1,6 @@
+E:\Visual Studio Codes\Boolean_Operators\Boolean_Operators\bin\Debug\Boolean_Operators.exe.config
+E:\Visual Studio Codes\Boolean_Operators\Boolean_Operators\bin\Debug\Boolean_Operators.exe
+E:\Visual Studio Codes\Boolean_Operators\Boolean_Operators\bin\Debug\Boolean_Operators.pdb
+E:\Visual Studio Codes\Boolean_Operators\Boolean_Operators\obj\Debug\Boolean_Operators.csprojResolveAssemblyReference.cache
+E:\Visual Studio Codes\Boolean_Operators\Boolean_Operators\obj\Debug\Boolean_Operators.exe
+E:\Visual Studio Codes\Boolean_Operators\Boolean_Operators\obj\Debug\Boolean_Operators.pdb
