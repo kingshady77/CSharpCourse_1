@@ -1,0 +1,5 @@
+E:\Visual Studio Codes\Increaments_Decreaments\Increaments_Decreaments\bin\Debug\Increaments_Decreaments.exe.config
+E:\Visual Studio Codes\Increaments_Decreaments\Increaments_Decreaments\bin\Debug\Increaments_Decreaments.exe
+E:\Visual Studio Codes\Increaments_Decreaments\Increaments_Decreaments\bin\Debug\Increaments_Decreaments.pdb
+E:\Visual Studio Codes\Increaments_Decreaments\Increaments_Decreaments\obj\Debug\Increaments_Decreaments.exe
+E:\Visual Studio Codes\Increaments_Decreaments\Increaments_Decreaments\obj\Debug\Increaments_Decreaments.pdb
