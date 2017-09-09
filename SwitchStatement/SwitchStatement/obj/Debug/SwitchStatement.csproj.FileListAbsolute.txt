@@ -1,0 +1,5 @@
+E:\Visual Studio Codes\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.exe.config
+E:\Visual Studio Codes\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.exe
+E:\Visual Studio Codes\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.pdb
+E:\Visual Studio Codes\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.exe
+E:\Visual Studio Codes\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.pdb
