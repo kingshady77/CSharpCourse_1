@@ -1,0 +1,5 @@
+E:\Visual Studio Codes\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe.config
+E:\Visual Studio Codes\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe
+E:\Visual Studio Codes\WhileLoop\WhileLoop\bin\Debug\WhileLoop.pdb
+E:\Visual Studio Codes\WhileLoop\WhileLoop\obj\Debug\WhileLoop.exe
+E:\Visual Studio Codes\WhileLoop\WhileLoop\obj\Debug\WhileLoop.pdb
