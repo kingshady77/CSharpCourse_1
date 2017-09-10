@@ -1,0 +1,6 @@
+E:\Visual Studio Codes\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.exe.config
+E:\Visual Studio Codes\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.exe
+E:\Visual Studio Codes\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.pdb
+E:\Visual Studio Codes\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.exe
+E:\Visual Studio Codes\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.pdb
+E:\Visual Studio Codes\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.csprojResolveAssemblyReference.cache
