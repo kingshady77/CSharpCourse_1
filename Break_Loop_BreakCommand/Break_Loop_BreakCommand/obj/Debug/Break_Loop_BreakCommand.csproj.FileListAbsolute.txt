@@ -1,0 +1,6 @@
+E:\Visual Studio Codes\Break_Loop_BreakCommand\Break_Loop_BreakCommand\bin\Debug\Break_Loop_BreakCommand.exe.config
+E:\Visual Studio Codes\Break_Loop_BreakCommand\Break_Loop_BreakCommand\bin\Debug\Break_Loop_BreakCommand.exe
+E:\Visual Studio Codes\Break_Loop_BreakCommand\Break_Loop_BreakCommand\bin\Debug\Break_Loop_BreakCommand.pdb
+E:\Visual Studio Codes\Break_Loop_BreakCommand\Break_Loop_BreakCommand\obj\Debug\Break_Loop_BreakCommand.csprojResolveAssemblyReference.cache
+E:\Visual Studio Codes\Break_Loop_BreakCommand\Break_Loop_BreakCommand\obj\Debug\Break_Loop_BreakCommand.exe
+E:\Visual Studio Codes\Break_Loop_BreakCommand\Break_Loop_BreakCommand\obj\Debug\Break_Loop_BreakCommand.pdb
