@@ -1,0 +1,6 @@
+E:\Visual Studio Codes\Explicit_Conversion_Type\Explicit_Conversion_Type\bin\Debug\Explicit_Conversion_Type.exe.config
+E:\Visual Studio Codes\Explicit_Conversion_Type\Explicit_Conversion_Type\bin\Debug\Explicit_Conversion_Type.exe
+E:\Visual Studio Codes\Explicit_Conversion_Type\Explicit_Conversion_Type\bin\Debug\Explicit_Conversion_Type.pdb
+E:\Visual Studio Codes\Explicit_Conversion_Type\Explicit_Conversion_Type\obj\Debug\Explicit_Conversion_Type.csprojResolveAssemblyReference.cache
+E:\Visual Studio Codes\Explicit_Conversion_Type\Explicit_Conversion_Type\obj\Debug\Explicit_Conversion_Type.exe
+E:\Visual Studio Codes\Explicit_Conversion_Type\Explicit_Conversion_Type\obj\Debug\Explicit_Conversion_Type.pdb
