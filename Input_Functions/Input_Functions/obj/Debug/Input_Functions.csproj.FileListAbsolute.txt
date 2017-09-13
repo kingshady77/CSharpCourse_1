@@ -1,0 +1,6 @@
+E:\Visual Studio Codes\Input_Functions\Input_Functions\bin\Debug\Input_Functions.exe.config
+E:\Visual Studio Codes\Input_Functions\Input_Functions\obj\Debug\Input_Functions.csprojResolveAssemblyReference.cache
+E:\Visual Studio Codes\Input_Functions\Input_Functions\bin\Debug\Input_Functions.exe
+E:\Visual Studio Codes\Input_Functions\Input_Functions\bin\Debug\Input_Functions.pdb
+E:\Visual Studio Codes\Input_Functions\Input_Functions\obj\Debug\Input_Functions.exe
+E:\Visual Studio Codes\Input_Functions\Input_Functions\obj\Debug\Input_Functions.pdb
