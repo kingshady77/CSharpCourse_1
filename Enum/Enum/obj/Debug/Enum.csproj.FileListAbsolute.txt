@@ -1,0 +1,6 @@
+E:\Visual Studio Codes\Enum\Enum\bin\Debug\Enum.exe.config
+E:\Visual Studio Codes\Enum\Enum\bin\Debug\Enum.exe
+E:\Visual Studio Codes\Enum\Enum\bin\Debug\Enum.pdb
+E:\Visual Studio Codes\Enum\Enum\obj\Debug\Enum.csprojResolveAssemblyReference.cache
+E:\Visual Studio Codes\Enum\Enum\obj\Debug\Enum.exe
+E:\Visual Studio Codes\Enum\Enum\obj\Debug\Enum.pdb
