@@ -1,0 +1,5 @@
+E:\Visual Studio Codes\Foreach_Loop_Challange\Foreach_Loop_Challange\bin\Debug\Foreach_Loop_Challange.exe.config
+E:\Visual Studio Codes\Foreach_Loop_Challange\Foreach_Loop_Challange\bin\Debug\Foreach_Loop_Challange.exe
+E:\Visual Studio Codes\Foreach_Loop_Challange\Foreach_Loop_Challange\bin\Debug\Foreach_Loop_Challange.pdb
+E:\Visual Studio Codes\Foreach_Loop_Challange\Foreach_Loop_Challange\obj\Debug\Foreach_Loop_Challange.exe
+E:\Visual Studio Codes\Foreach_Loop_Challange\Foreach_Loop_Challange\obj\Debug\Foreach_Loop_Challange.pdb
