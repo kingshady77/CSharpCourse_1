@@ -1,0 +1,6 @@
+E:\Visual Studio Codes\ArrayOfString_1\ArrayOfString_1\bin\Debug\ArrayOfString_1.exe.config
+E:\Visual Studio Codes\ArrayOfString_1\ArrayOfString_1\bin\Debug\ArrayOfString_1.exe
+E:\Visual Studio Codes\ArrayOfString_1\ArrayOfString_1\bin\Debug\ArrayOfString_1.pdb
+E:\Visual Studio Codes\ArrayOfString_1\ArrayOfString_1\obj\Debug\ArrayOfString_1.csprojResolveAssemblyReference.cache
+E:\Visual Studio Codes\ArrayOfString_1\ArrayOfString_1\obj\Debug\ArrayOfString_1.exe
+E:\Visual Studio Codes\ArrayOfString_1\ArrayOfString_1\obj\Debug\ArrayOfString_1.pdb
