@@ -1,0 +1,6 @@
+C:\Users\Shady-HP\Desktop\Training_ISE_C++\Defualt_ParametrizeConstructor\Defualt_ParametrizeConstructor\bin\Debug\Defualt_ParametrizeConstructor.exe.config
+C:\Users\Shady-HP\Desktop\Training_ISE_C++\Defualt_ParametrizeConstructor\Defualt_ParametrizeConstructor\bin\Debug\Defualt_ParametrizeConstructor.exe
+C:\Users\Shady-HP\Desktop\Training_ISE_C++\Defualt_ParametrizeConstructor\Defualt_ParametrizeConstructor\bin\Debug\Defualt_ParametrizeConstructor.pdb
+C:\Users\Shady-HP\Desktop\Training_ISE_C++\Defualt_ParametrizeConstructor\Defualt_ParametrizeConstructor\obj\Debug\Defualt_ParametrizeConstructor.csprojResolveAssemblyReference.cache
+C:\Users\Shady-HP\Desktop\Training_ISE_C++\Defualt_ParametrizeConstructor\Defualt_ParametrizeConstructor\obj\Debug\Defualt_ParametrizeConstructor.exe
+C:\Users\Shady-HP\Desktop\Training_ISE_C++\Defualt_ParametrizeConstructor\Defualt_ParametrizeConstructor\obj\Debug\Defualt_ParametrizeConstructor.pdb
