@@ -22,6 +22,15 @@ namespace OOP_Training
         public int enginerSize;
 
         /// <summary>
+        /// Default Constructor
+        /// </summary>
+        /// <remarks>Constructor</remarks>
+        public Vehicle()
+        {
+
+        }
+
+        /// <summary>
         /// color fucntion
         /// </summary>
         /// <remarks>To change the car color</remarks>

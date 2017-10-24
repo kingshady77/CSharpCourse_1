@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OOP Training</name>
+    </assembly>
+    <members>
+        <member name="T:OOP_Training.Vehicle">
+            <summary>
+            The is the parent class
+            </summary>
+            <remarks>This is a vehicle class</remarks>
+        </member>
+        <member name="F:OOP_Training.Vehicle.manufacturer">
+            <summary>
+            This value represent the car company
+            </summary>
+            <remarks>The company name</remarks>
+            <value>Cars Company Names</value>
+        </member>
+        <member name="M:OOP_Training.Vehicle.#ctor">
+            <summary>
+            Default Constructor
+            </summary>
+            <remarks>Constructor</remarks>
+        </member>
+        <member name="M:OOP_Training.Vehicle.painting">
+            <summary>
+            color fucntion
+            </summary>
+            <remarks>To change the car color</remarks>
+        </member>
+        <member name="M:OOP_Training.Vehicle.move">
+            <remarks>To specify the moving apporach</remarks>
+        </member>
+    </members>
+</doc>

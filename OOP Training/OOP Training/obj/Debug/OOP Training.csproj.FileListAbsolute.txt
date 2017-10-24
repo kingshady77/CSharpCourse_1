@@ -1,1 +1,7 @@
 C:\Users\Shady-HP\Desktop\Training_ISE_C++\OOP Training\OOP Training\bin\Debug\OOP Training.exe.config
+C:\Users\Shady-HP\Desktop\Training_ISE_C++\OOP Training\OOP Training\bin\Debug\OOP Training.XML
+C:\Users\Shady-HP\Desktop\Training_ISE_C++\OOP Training\OOP Training\bin\Debug\OOP Training.exe
+C:\Users\Shady-HP\Desktop\Training_ISE_C++\OOP Training\OOP Training\bin\Debug\OOP Training.pdb
+C:\Users\Shady-HP\Desktop\Training_ISE_C++\OOP Training\OOP Training\obj\Debug\OOP Training.csprojResolveAssemblyReference.cache
+C:\Users\Shady-HP\Desktop\Training_ISE_C++\OOP Training\OOP Training\obj\Debug\OOP Training.exe
+C:\Users\Shady-HP\Desktop\Training_ISE_C++\OOP Training\OOP Training\obj\Debug\OOP Training.pdb
