@@ -1,0 +1,6 @@
+C:\Users\Shady-HP\Desktop\Training_ISE_C++\class26\class26\bin\Debug\class26.exe.config
+C:\Users\Shady-HP\Desktop\Training_ISE_C++\class26\class26\bin\Debug\class26.exe
+C:\Users\Shady-HP\Desktop\Training_ISE_C++\class26\class26\bin\Debug\class26.pdb
+C:\Users\Shady-HP\Desktop\Training_ISE_C++\class26\class26\obj\Debug\class26.csprojResolveAssemblyReference.cache
+C:\Users\Shady-HP\Desktop\Training_ISE_C++\class26\class26\obj\Debug\class26.exe
+C:\Users\Shady-HP\Desktop\Training_ISE_C++\class26\class26\obj\Debug\class26.pdb
